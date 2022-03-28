@@ -212,7 +212,6 @@ a.ads1.msn.com
 a.ads2.msads.net
 a.ads2.msn.com
 a.config.skype.com
-a.rad.msn.com
 a0001.a-msedge.net
 a-0001.a-msedge.net
 a-0001.dc-msedge.net
@@ -650,7 +649,6 @@ a96-7-213-73.deploy.static.akamaitechnologies.com
 a96-7-232-112.deploy.static.akamaitechnologies.com
 a978.i6g1.akamai.net
 a9a64462b995ebdf674e51eb0f2afd4e.clo.footprintdns.com
-ac3.msn.com
 account.activedirectory.windowsazure.com
 account.microsoft.com
 account.office.net
@@ -699,7 +697,6 @@ api.edgeoffer.microsoft.com
 api.globalsign.cloud
 api.meetup.com
 api.mixpanel.com
-api.msn.com
 api.onedrive.com
 api.passwordreset.microsoftonline.com
 api.redshell.io
@@ -710,7 +707,6 @@ app.box.com
 appex-rf.msn.com
 apps.skype.com
 appsforoffice.microsoft.com
-arc.msn.com
 arc.msn.com.nsatc.net
 arc.msn.com-nsatc.net
 arc-apac.msn.com
@@ -766,7 +762,6 @@ ars.smartscreen.microsoft.com
 arth.net
 asimov.settings.data.microsoft.com.akadns.net
 asimov-win.settings.data.microsoft.com.akadns.net
-assets.msn.com
 assets.onestore.ms
 assuritystorage.blob.core.windows.net
 atlas.c10r.facebook.com
@@ -804,7 +799,6 @@ bg4.v4.a.dl.ws.microsoft.com
 bg4.v4.emdl.ws.microsoft.com
 bg5.v4.a.dl.ws.microsoft.com
 bg5.v4.emdl.ws.microsoft.com
-bing.com
 bingads.microsoft.com
 bingforbusiness.com
 b-internet.176.49.84.166.nsk.rt.ru
@@ -895,8 +889,6 @@ by3301-a.1drv.com
 by3301-c.1drv.com
 by3301-e.1drv.com
 c.atdmt.com
-c.bing.com
-c.bing.net
 c.go.mpulse.net.cdn.cloudflare.net
 c.msn.com.nsatc.net
 c.net
@@ -1455,7 +1447,6 @@ elb-telemetry-prod-external-1332413525.us-west-2.elb.amazonaws.com
 emdl.ws.microsoft.com
 e-msedge.net
 enterpriseregistration.windows.net
-en-us.appex-rf.msn.com
 equality.microsoft.com
 etag-production-roundrobin.skype-registar.akadns.net
 eu.vortex.data.microsoft.com
@@ -1496,7 +1487,6 @@ fg.ds.b1.download.windowsupdate.com
 fg.v4.download.windowsupdate.com
 finance.services.appex.bing.com
 firstpartyapps.oaspapps.com
-flex.msn.com
 flightingservicewus.cloudapp.net
 flow.lavasoft.com
 foodanddrink.tile.appex.bing.com
@@ -1655,8 +1645,6 @@ ieonlinews.microsoft.com
 ieonlinews.trafficmanager.net
 ilosgh519yhal.auth.hpicorp.net
 images.taboola.com
-img.s-msn.com
-img.stb.s-msn.com
 img-prod-cms-rt-microsoft-com.akamaized.net
 img-s-msn-com.akamaized.net
 in.treasuredata.com
@@ -1696,7 +1684,6 @@ legacy-redirection-neurope-prod-hp.cloudapp.net
 licensing.md.mp.microsoft.com
 licensing.mp.microsoft.com
 licensingphone.md.mp.microsoft.com
-live.rads.msn.com
 livegeteastus.cloudapp.net
 livetileedge.dsx.mp
 livetileedge.dsx.mp.microsoft.com
@@ -1713,7 +1700,6 @@ l-ring.msedge.net
 ls2web.redmond.corp.microsoft.com
 m.adnxs.com
 m.akadns.net
-m.hotmail.com
 m.qualifytring.com
 m1-msedge.net
 m221.absolute.com
@@ -1736,7 +1722,6 @@ mm1prdapp01-canary.cloudapp.net
 mma01prdapp04-canary-opaph.netmon.azure.com
 mobile.events.data.microsoft.com
 mobile.pipe.aria.microsoft.com
-mobileads.msn.com
 modern.watson.data.microsoft.com
 modern.watson.data.microsoft.com.akadns.net
 moiafdaws.clo.footprintdns.com
@@ -1744,7 +1729,6 @@ moiawsorigin.clo.footprintdns.com
 mp.microsoft.com
 mpd.mxptint.net
 mrodevicemgr.officeapps.live.com
-msagfx.live.com
 mscrl.microsoft.com
 msdn.microsoft.com
 msedge.api.cdp.microsoft.co
@@ -1784,7 +1768,6 @@ ns4.msft.net
 ns5.msft.net
 ns6.msft.net
 nt.net
-ntp.msn.com
 nus1-api-skype.cloudapp.net
 nus1-authgw.cloudapp.net
 nw-umwatson.events.data.microsoft.com
@@ -1799,9 +1782,7 @@ ocsp.msocsp.com
 ocsp.usertrust.com
 odinvzc.azureedge.net
 oem.twimg.com
-
 office15client.microsoft.com
-
 officecdn.microsoft.com
 officecdn.microsoft.com.edgesuite.net
 officeclient.microsoft.com
@@ -1903,10 +1884,7 @@ o-ring.msedge.net
 ortex-win.data.microsoft.com
 osiprod-scus-snow-000.cloudapp.net
 osiprod-weu-snow-000.cloudapp.net
-otf.msn.com
-outlook.office365.com
 outlookmobile-office365-tas.msedge.net
-ow1.res.office365.com
 ows.net
 p.sfx.ms
 p1415007-ipngn15001marunouchi.tokyo.ocn.ne.jp
@@ -1954,16 +1932,11 @@ purchase.md.mp.microsoft.com
 purchase.mp.microsoft.com
 q-ring-fallback.msedge.net
 query.prod.cms.rt.microsoft.com
-r.bing.com
 r.manage.microsoft.com
 r.msftstatic.com
 r.office.microsoft.com
 r1.res.office365.com
 r20swj13mr.microsoft.com
-r3.res.office365.com
-r4.res.office365.com
-
-rad.msn.com
 rcr.blob.core.windows.net
 redir.metaservices.microsoft.com
 redir.metaservices.microsoft.com.akadns.net
@@ -2000,7 +1973,6 @@ sc.iasds01.com
 schemas.microsoft.akadns.net
 sconsentit903.cloudapp.net
 sdx.microsoft.com
-search.msn.com
 secure.adnxs.com
 secure.flashtalking.com
 secure.globalsign.com
@@ -2029,7 +2001,6 @@ sfdataservice.microsoft.com
 sg2p.wns.windows.com
 share.microsoft.com
 shellprod.msocdn.com
-
 siweb.microsoft.akadns.net
 skyapi.live.net
 skyapi.skyprod.akadns.net
@@ -2068,7 +2039,6 @@ sqm.telemetry.microsoft.com
 sqm.telemetry.microsoft.com.nsatc.net
 sqmfe.glbdns2.microsoft.com
 s-ring.msedge.net
-srtb.msn.com
 ssl.ak.tiles.virtualearth.net
 staffhub.ms
 staging.to-do.microsoft.com
@@ -2083,7 +2053,6 @@ statsfe1.ws.microsoft.com
 statsfe2.update.microsoft.com
 statsfe2.update.microsoft.com.akadns.net
 statsfe2.ws.microsoft.com
-
 storecatalogrevocation.storequality.microsoft.com
 storeedgefd.dsx.mp
 storeedgefd.dsx.mp.microsoft.com
@@ -2208,7 +2177,6 @@ w.apprep.smartscreen.microsoft.com
 wac.edgecastcdn.net
 wac.phicdn.net
 wallet.microsoft.com
-
 watson.microsoft.com
 watson.ppe.telemetry.microsoft.com
 watson.telemetry.microsoft.com
@@ -2259,7 +2227,6 @@ www.onedrive.com
 www.sway.com
 www.telecommandsvc.microsoft.com
 www.xboxab.com
-www2.bing.com
 x.urs.microsoft.com
 x1ds.xboxlive.com
 xblcqosteredo-wus-10-0-10586-1195-1.cloudapp.net
