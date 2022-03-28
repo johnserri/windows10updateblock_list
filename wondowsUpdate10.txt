@@ -652,7 +652,6 @@ a978.i6g1.akamai.net
 a9a64462b995ebdf674e51eb0f2afd4e.clo.footprintdns.com
 ac3.msn.com
 account.activedirectory.windowsazure.com
-account.live.com
 account.microsoft.com
 account.office.net
 accounts.accesscontrol.windows.net
@@ -681,8 +680,6 @@ akamai.net
 akamaiedge.net
 alpha.telemetry.microsoft.com
 am3p.wns.windows.com
-am3pap002.storage.live.com
-am3pap004.storage.live.com
 americas1.notify.windows.com.akadns.net
 americas2.notify.windows.com.akadns.net
 amp.azure.net
@@ -816,7 +813,6 @@ bl2p.wns.windows.com
 bl3301-a.1drv.com
 bl3301-c.1drv.com
 bl3301-g.1drv.com
-bl3302.storage.live.com
 bl3302geo.storage.dkyprod.akadns.net
 blob.bl2prdstr03a.store.core.windows.net
 blob.core.windows.net
@@ -1039,7 +1035,6 @@ ch3302-c.1drv.com
 ch3302-e.1drv.com
 ch-api.taboola.com
 checkappexec.microsoft.com
-choice.live.com
 choice.microsoft.com
 choice.microsoft.com.nsatc.net
 choice.microsoft.com.nstac.net
@@ -1804,9 +1799,9 @@ ocsp.msocsp.com
 ocsp.usertrust.com
 odinvzc.azureedge.net
 oem.twimg.com
-office.live.com
+
 office15client.microsoft.com
-officeapps.live.com
+
 officecdn.microsoft.com
 officecdn.microsoft.com.edgesuite.net
 officeclient.microsoft.com
@@ -1967,7 +1962,7 @@ r1.res.office365.com
 r20swj13mr.microsoft.com
 r3.res.office365.com
 r4.res.office365.com
-rad.live.com
+
 rad.msn.com
 rcr.blob.core.windows.net
 redir.metaservices.microsoft.com
@@ -2034,7 +2029,7 @@ sfdataservice.microsoft.com
 sg2p.wns.windows.com
 share.microsoft.com
 shellprod.msocdn.com
-signup.live.com
+
 siweb.microsoft.akadns.net
 skyapi.live.net
 skyapi.skyprod.akadns.net
@@ -2088,7 +2083,7 @@ statsfe1.ws.microsoft.com
 statsfe2.update.microsoft.com
 statsfe2.update.microsoft.com.akadns.net
 statsfe2.ws.microsoft.com
-storage.live.com
+
 storecatalogrevocation.storequality.microsoft.com
 storeedgefd.dsx.mp
 storeedgefd.dsx.mp.microsoft.com
@@ -2213,7 +2208,7 @@ w.apprep.smartscreen.microsoft.com
 wac.edgecastcdn.net
 wac.phicdn.net
 wallet.microsoft.com
-watson.live.com
+
 watson.microsoft.com
 watson.ppe.telemetry.microsoft.com
 watson.telemetry.microsoft.com
